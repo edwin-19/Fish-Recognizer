@@ -23,8 +23,8 @@ python yolo_video.py --input input/out.mp4 --output output/test.avi
 # Acknowledgement
 This repo was heavily insipred by the following repos do check out their work if your interested:
 
-https://github.com/qqwweee/keras-yolo3
-https://github.com/Qidian213/deep_sort_yolov3
+- https://github.com/qqwweee/keras-yolo3
+- https://github.com/Qidian213/deep_sort_yolov3
 
 I borrowed the weights trained by the following repo to label some of the data:
-https://github.com/kwea123/fish_detection
+- https://github.com/kwea123/fish_detection
