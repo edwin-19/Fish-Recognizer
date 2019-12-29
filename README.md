@@ -11,7 +11,7 @@ Clone this respository
 git clone https://github.com/edwin-19/Fish-Recognizer.git
 ```
 
-Donwload weights from [here] (https://drive.google.com/open?id=1B50WdnIETk4_dIM0icrqTHQhn4XFYdas) 
+Donwload weights from [here](https://drive.google.com/open?id=1B50WdnIETk4_dIM0icrqTHQhn4XFYdas) 
 
 Then change path for weights in yolo.py for files
 
