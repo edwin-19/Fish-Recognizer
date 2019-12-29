@@ -7,18 +7,18 @@
 
 # How to use
 Clone this respository
-'''sh
+```sh
 git clone https://github.com/edwin-19/Fish-Recognizer.git
-'''
+```
 
 Donwload weights from [here] (https://drive.google.com/open?id=1B50WdnIETk4_dIM0icrqTHQhn4XFYdas) 
 
 Then change path for weights in yolo.py for files
 
 Then run the following command
-'''sh
+```sh
 python yolo_video.py --input input/out.mp4 --output output/test.avi
-'''
+```
 
 # TODO
 - [ ] - Increase accuracy on detector
