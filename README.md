@@ -16,9 +16,9 @@ python yolo_video.py --input input/out.mp4 --output output/test.avi
 - Weights TBA
 
 # TODO
-[ ] - Increase accuracy on detector
-[ ] - Add SORT Algorithm 
-[ ] - Add recognizer for fish
+- [ ] - Increase accuracy on detector
+- [ ] - Add SORT Algorithm 
+- [ ] - Add recognizer for fish
 
 # Acknowledgement
 This repo was heavily insipred by the following repos do check out their work if your interested:
