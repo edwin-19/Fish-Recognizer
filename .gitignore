@@ -1,0 +1,9 @@
+data/
+data_scrapper/
+deep_sort/
+input/
+output/
+tools/
+logs/
+weights/
+model_config/original/*.pb
