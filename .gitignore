@@ -2,7 +2,8 @@ data/
 data_scrapper/
 deep_sort/
 input/
-output/
+output/*.avi
+output/*.mp4
 tools/
 logs/
 weights/
