@@ -20,6 +20,9 @@ Then run the following command
 python yolo_video.py --input input/out.mp4 --output output/test.avi
 ```
 
+# Sample Output
+![Output Result](https://github.com/edwin-19/Fish-Recognizer/blob/master/output/output.jpg?raw=true "Title")
+
 # TODO
 - [ ] - Increase accuracy on detector
 - [ ] - Add SORT Algorithm 
